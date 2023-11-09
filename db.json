@@ -2,7 +2,7 @@
 "nft":{
     "name": "My Awesome NFT",
     "description": "This NFT shows a cool artwork!",
-    "image": "https://example.com/path/to/your/artwork.png",
+    "image": "https://images.unsplash.com/photo-1699447712063-856067f41c04?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "attributes": [
       {
         "trait_type": "Coolness",
