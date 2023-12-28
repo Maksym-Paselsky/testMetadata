@@ -1,0 +1,13 @@
+{
+  "nft": {
+    "name": "Digital Dawn",
+    "description": "With this NFT, witness the birth of a new technological era as the first digital sun rises over a cyberpunk cityscape. The sky transitions from soft pinks to warm oranges, highlighting the cool blues of an advanced metropolis alive with streaming data and pulsating energy.",
+    "image": "https://i.ibb.co/bRnVpmx/digital-dawn.png",
+    "attributes": [
+      {
+        "trait_type": "Coolness",
+        "value": 300
+      }
+    ]
+  }
+}

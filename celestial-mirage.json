@@ -1,0 +1,13 @@
+{
+  "nft": {
+    "name": "Celestial Mirage",
+    "description": "A breathtaking digital artwork that captures the majestic beauty of an otherworldly celestial event. This NFT features a mystical floating island against a backdrop of swirling galaxies and cosmic nebulas, with a color palette that weaves together deep blues, purples, and radiant golds.",
+    "image": "https://images.unsplash.com/photo-1699447712063-856067f41c04?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "attributes": [
+      {
+        "trait_type": "Coolness",
+        "value": 100
+      }
+    ]
+  }
+}

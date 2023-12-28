@@ -1,0 +1,13 @@
+{
+  "nft": {
+    "name": "Etheric Echo",
+    "description": "This abstract NFT represents the subtle dance of light and shadow, with a ghostly figure at its core surrounded by a symphony of blues and greens. Etheric Echo captures the essence of echoes rippling through the ether, rendered in a modern abstract style that embodies both movement and tranquility",
+    "image": "https://i.ibb.co/sWRZ298/etheric-echo.png",
+    "attributes": [
+      {
+        "trait_type": "Coolness",
+        "value": 200
+      }
+    ]
+  }
+}

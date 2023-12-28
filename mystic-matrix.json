@@ -1,0 +1,13 @@
+{
+  "nft": {
+    "name": "Mystic Matrix",
+    "description": "A digital tapestry of glowing runes and arcane symbols, Mystic Matrix forms a labyrinth of emerald and sapphire light. It's a magical circuit board where every line of energy tells a story of ancient wisdom meeting cutting-edge technology, perfect for collectors who appreciate the fusion of magic and machine.",
+    "image": "https://i.ibb.co/N9fqvn2/mystic-matrix.png",
+    "attributes": [
+      {
+        "trait_type": "Coolness",
+        "value": 300
+      }
+    ]
+  }
+}

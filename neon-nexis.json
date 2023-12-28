@@ -1,0 +1,13 @@
+{
+  "nft": {
+    "name": "Neon Nexus",
+    "description": "Neon Nexus is an explosion of vibrant neon lights intersecting in a futuristic urban alley, reflecting off rain-slicked streets to create a kaleidoscope of color. This NFT is a celebration of life in the fast lane, embodying the non-stop energy of a city that never sleeps.",
+    "image": "https://i.ibb.co/QNFjCDG/neon-nexus.png",
+    "attributes": [
+      {
+        "trait_type": "Coolness",
+        "value": 300
+      }
+    ]
+  }
+}
